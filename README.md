@@ -14,7 +14,7 @@
     <tbody>
         <tr>
             <td>OWEN</td>
-            <td>ÁVALOS&nbsp;ZEPEDA</td>
+            <td>ÁVALOS ZEPEDA</td>
             <td>o.valoszepeda@uandresbello.edu</td>
             <td>6</td>
             <td>1</td>
@@ -28,21 +28,21 @@
         </tr>
         <tr>
             <td>JULIO</td>
-            <td>LEAL&nbsp;LEIVA</td>
+            <td>LEAL LEIVA</td>
             <td>j.lealleiva@uandresbello.edu</td>
             <td>6</td>
             <td>1</td>
         </tr>
         <tr>
             <td>ALEJANDRO</td>
-            <td>URBINA&nbsp;MEZA</td>
+            <td>URBINA MEZA</td>
             <td>a.urbinameza@uandresbello.edu</td>
             <td>6</td>
             <td>1</td>
         </tr>
         <tr>
             <td>MIGUEL</td>
-            <td>VALVERDE&nbsp;LAIME</td>
+            <td>VALVERDE LAIME</td>
             <td>m.valverdelaime@uandresbello.edu</td>
             <td>6</td>
             <td>1</td>
